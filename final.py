@@ -24,8 +24,8 @@ def print_weather(city_name):
         print('-----------------------------------------------------------------------')
         print()
     
-
-g_api_key = "c7acf1a697897805eb3c5ee88b386430"
+# add your api here
+g_api_key = "add_your_api_key"
 g_city = 'patna'
 g_lang = 'en'
 
